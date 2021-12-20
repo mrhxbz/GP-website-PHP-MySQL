@@ -1,0 +1,10 @@
+body{
+  background-color: aliceblue;
+  background-size: cover;
+  background-position: center;
+}
+.login-box{
+  max-width: 700px;
+  float: none;
+  margin: 50px auto;
+}
